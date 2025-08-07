@@ -18,3 +18,7 @@ This repository contains a comprehensive guide and practical examples of using `
 - Java 8 or higher
 - Maven or Gradle (optional, for build/demo purposes)
 - IDE like IntelliJ IDEA / Eclipse / VSCode
+
+- ## Author
+
+- **Aditya Deshpande**
