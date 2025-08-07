@@ -19,6 +19,6 @@ This repository contains a comprehensive guide and practical examples of using `
 - Maven or Gradle (optional, for build/demo purposes)
 - IDE like IntelliJ IDEA / Eclipse / VSCode
 
-- ## Author
+## ✍️ Author
 
 - **Aditya Deshpande**
